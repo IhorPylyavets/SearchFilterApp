@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <array name="colors">
+        <item name="all" type="color">#827f93</item>
+        <item name="action" type="color">#c467f4</item>
+        <item name="adventure" type="color">#3b9aee</item>
+        <item name="fantasy" type="color">#9bc53d</item>
+        <item name="science_fiction" type="color">#f4a261</item>
+        <item name="mystery" type="color">#1ed2bb</item>
+        <item name="thriller" type="color">#778da9</item>
+        <item name="family" type="color">#20bf55</item>
+        <item name="romance" type="color">#9f9fed</item>
+        <item name="other" type="color">#bcbcbc</item>
+    </array>
+</resources>
